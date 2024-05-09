@@ -12,6 +12,11 @@ import Join from "./components/Join";
 import Footer from "./components/Footer";
 
 function App() {
+  Aos.init({
+    duration: 2500,
+    delay: 400,
+    once: true,
+  });
   return (
     <div className="max-w-[1440px] mx-auto bg-page overflow-hidden relative">
       <Header />
