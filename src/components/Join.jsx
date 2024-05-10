@@ -18,7 +18,7 @@ const Join = () => {
           </div>
           <div
             className="max-w-[350px] lg:max-w-[492px] ml-[30px]"
-            data-aos="fade-right"
+            data-aos="fade-left"
             data-aos-delay="200"
             data-aos-offset="100"
           >
