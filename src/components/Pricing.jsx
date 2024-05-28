@@ -16,7 +16,8 @@ const Pricing = () => {
       >
         <img src={icon} alt="" />
         <h2 className="h2">
-          {title} <span className="text-primary-200">.</span>
+          {title}
+          <span className="text-primary-200">.</span>
         </h2>
       </div>
       <PlanList plans={plans} />

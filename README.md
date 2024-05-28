@@ -1,8 +1,25 @@
-# React + Vite
+# gymeME
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A single-page web application for a gym, built with React and Tailwind, offers a clear gym description, an overview of training programs, and detailed pricing plans. Users can browse community photos in an interactive slider and find answers to common questions in the FAQ section. The design ensures a responsive and aesthetically pleasing user experience.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Yarn Vite React Tailwind
+
+## Demo
+
+LIVE: [gymeME](https://hrs-gymme.netlify.app/)
+
+## Screenshot
+
+<img src="/src/assets/img/hrs-gymme.netlify.app_-full.png" width="800">
+
+## Author
+
+### Hubert Śleszyński
+
+Portfolio: https://hrs-dev.netlify.app/
+
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+
+Github: https://github.com/HubertSleszynski

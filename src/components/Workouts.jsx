@@ -15,7 +15,8 @@ const Workouts = () => {
       >
         <img src={icon} alt="" />
         <h2 className="h2 section-title">
-          {title} <span className="text-primaty-200">.</span>
+          {title}
+          <span className="text-primary-200">.</span>
         </h2>
       </div>
       <div data-aos="fade-up" data-aos-delay="300">
